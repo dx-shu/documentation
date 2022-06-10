@@ -25,9 +25,9 @@ There are several pages we recommend reading:
 A few tools we recommend:
 
 1. Silktide (see below)
-   1. (Silktide disabilty simulator)[https://silktide.com/resources/toolbar/]
-2. (WebAIM resources)[https://webaim.org/resources/]
+   1. [Silktide disabilty simulator](https://silktide.com/resources/toolbar/)
+2. [WebAIM resources](https://webaim.org/resources/)
 
 ## How can I ensure pages I am responsible for are of a good standard?
 
-We have procured a website accessibility checker called Silktide, web editors can request access via the work request form on the (digital experience service)[https://www.shu.ac.uk/digital-experience-service]. Once accessed, the Silktide academy can teach you the fundamentals of using Silktide and live chat support is available on the platform.
+We have procured a website accessibility checker called Silktide, web editors can request access via the work request form on the [digital experience service](https://www.shu.ac.uk/digital-experience-service). Once accessed, the Silktide academy can teach you the fundamentals of using Silktide and live chat support is available on the platform.
