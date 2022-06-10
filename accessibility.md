@@ -12,6 +12,8 @@ UK universities are lawfully required to provide a website that is as accessible
 
 ## How can I learn more about accessibility?
 
+Learning about accessibility can appear to be a mountain of a task, however, is much more manageable with key reading, dedication and hands on practice.
+
 There are several pages we recommend reading:
 
 1. TBC
@@ -20,6 +22,12 @@ There are several pages we recommend reading:
 4. TBC
 5. TBC
 
+A few tools we recommend:
+
+1. Silktide (see below)
+1a. (Silktide disabilty simulator)[https://silktide.com/resources/toolbar/]
+2. (WebAIM resources)[https://webaim.org/resources/]
+
 ## How can I ensure pages I am responsible for are of a good standard?
 
-We have procured a website accessibility checker called Silktide, web editors can request access via the work request form on the (https://www.shu.ac.uk/digital-experience-service)[digital experience service]. Once accessed, the Silktide academy can teach you the fundamentals of using Silktide and live chat support is available on the platform.
+We have procured a website accessibility checker called Silktide, web editors can request access via the work request form on the (digital experience service)[https://www.shu.ac.uk/digital-experience-service]. Once accessed, the Silktide academy can teach you the fundamentals of using Silktide and live chat support is available on the platform.
