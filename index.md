@@ -1,3 +1,3 @@
 # Experience library content
 
-[Accessibility](accessibility.md)
+[About accessibility](accessibility.md)
