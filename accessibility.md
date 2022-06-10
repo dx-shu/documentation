@@ -25,7 +25,7 @@ There are several pages we recommend reading:
 A few tools we recommend:
 
 1. Silktide (see below)
-1a. (Silktide disabilty simulator)[https://silktide.com/resources/toolbar/]
+   1. (Silktide disabilty simulator)[https://silktide.com/resources/toolbar/]
 2. (WebAIM resources)[https://webaim.org/resources/]
 
 ## How can I ensure pages I am responsible for are of a good standard?
