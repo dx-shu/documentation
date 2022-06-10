@@ -1,4 +1,4 @@
-# Accessibility documentation
+# About accessibility
 
 We design for all of our users and start with their needs. All design output should solve a real user need in order to exist.
 
