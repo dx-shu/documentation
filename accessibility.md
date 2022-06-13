@@ -14,17 +14,16 @@ UK universities are lawfully required to provide a website that is as accessible
 
 Learning about accessibility can appear to be a mountain of a task, however, is much more manageable with key reading, dedication and hands on practice.
 
-There are several pages we recommend reading:
+There are several websites we recommend:
 
-1. TBC
-2. TBC
-3. TBC
-4. TBC
-5. TBC
+1. [EDX free accessibility course](https://www.edx.org/course/web-accessibility-introduction)
+2. [Silktide videos](https://silktide.com/accessibility/videos/) and [Silktide youtube channel](https://www.youtube.com/user/silktide)
+3. [Silktide free e-book](https://silktide.com/lp/free-ebook-accessibility-best-practices/)
+4. [Wuhcag](https://www.wuhcag.com/) - Handy for simplifying the often complex regulations
 
 A few tools we recommend:
 
-1. Silktide (see below)
+1. Silktide (see below for access details)
    1. [Silktide disabilty simulator](https://silktide.com/resources/toolbar/)
 2. [WebAIM resources](https://webaim.org/resources/)
 
