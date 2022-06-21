@@ -20,7 +20,7 @@ Web editors can [request access to Silktide](https://www.shu.ac.uk/digital-exper
 
 Learning about accessibility can appear to be a mountain of a task. Yet, with key reading, dedication and hands on practice, improvement is possible. 
 
-[Read our guide to accessibility regulations](accessibility-regulations)
+[Read our guide to accessibility regulations](accessibility-regulations.md)
 
 There are several websites we recommend:    
 1. [EDX free accessibility course](https://www.edx.org/course/web-accessibility-introduction)
