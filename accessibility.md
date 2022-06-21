@@ -14,7 +14,7 @@ UK universities legally must provide a website that is as accessible as possible
 
 ## How can I ensure pages I am responsible for are of a good standard?
 
-Web editors can [request access to Silktide](https://www.shu.ac.uk/digital-experience-service), a web accessibility tool, via the work request form on the digital experience service. Once accessed, Silktide academy can teach you the fundamentals of using Silktide. Live chat support is available to answer any questions about the platform.
+Web editors can [request access to Silktide](https://www.shu.ac.uk/digital-experience-service), a web accessibility performance tool. Once accessed, Silktide academy can teach you the fundamentals of using Silktide. Live chat support is available to answer any questions about the platform.
 
 ## How can I learn more about accessibility?
 
