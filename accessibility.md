@@ -18,7 +18,9 @@ Web editors can [request access to Silktide](https://www.shu.ac.uk/digital-exper
 
 ## How can I learn more about accessibility?
 
-Learning about accessibility can appear to be a mountain of a task. Yet, with key reading, dedication and hands on practice, improvement is possible. View our guidelines.
+Learning about accessibility can appear to be a mountain of a task. Yet, with key reading, dedication and hands on practice, improvement is possible. 
+
+[Read our guide to accessibility regulations](accessibility-regulations)
 
 There are several websites we recommend:    
 1. [EDX free accessibility course](https://www.edx.org/course/web-accessibility-introduction)
