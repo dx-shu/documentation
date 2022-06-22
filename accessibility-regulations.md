@@ -134,7 +134,7 @@ Bad examples: Read more
 
 A page that contains many links to the same destination must share the same description. 
 
-#### Sensory considerations
+#### Sensory considerations
 Content should not rely solely on colour. For example, errors on a form presented in colour.
 
 Content should not rely on sensory instruction. For example “click on the search bar on the right of the website”.
@@ -154,7 +154,7 @@ Relates to the following web content accessibility guidelines:
 * 2.4.4 Link purpose (in context)
 * 2.4.9 Link purpose (link only)
 
-## Allow the user control
+## Allow the user control
 The user should have control of elements of the website and not be required to take steps to prevent intrusive items such as media, animation or repeated content.
 
 Benefits:
@@ -308,11 +308,11 @@ All media is accompanied by a text transcript. Live media includes a script, eit
 Pre-recorded sign language and audio description provided for all videos.
 
 Relates to the following web content accessibility guidelines:
-1.2.6 – Sign Language (Pre-recorded)
-1.2.7 – Extended Audio description (Pre-recorded)
-1.2.8 – Media Alternative (Pre-recorded)
-1.2.9 – Audio Only (Live)
-1.3.6 – Identify Purpose
+* 1.2.6 – Sign Language (Pre-recorded)
+* 1.2.7 – Extended Audio description (Pre-recorded)
+* 1.2.8 – Media Alternative (Pre-recorded)
+* 1.2.9 – Audio Only (Live)
+* 1.3.6 – Identify Purpose
 
 ### Visual
 
@@ -336,7 +336,7 @@ Relates to the following web content accessibility guidelines:
 * 1.4.8 – Visual Presentation
 * 1.4.9 – Images of Text (No Exception)
 
-#### Controls
+### Controls
 Keyboard function
 All functions on the websites are accessible to keyboards with no exceptions.
 
@@ -356,19 +356,19 @@ Do not add anything that flashes more than 3 times per second to the website.
 Do not use motion animation on the website. If unavoidable, ensure that the animation can be disabled.
 
 Relates to the following web content accessibility guidelines:
-2.1.3 – Keyboard (No Exception)
-2.2.3 – No Timing
-2.2.4 – Interruptions
-2.2.5 – Re-authenticating
-2.2.6 – Timeouts
-2.3.2 – Three Flashes
-2.3.3 – Animation from Interactions
-2.2.3 – No Timing
-2.2.4 – Interruptions
-2.2.5 – Re-authenticating
-2.2.6 – Timeouts
-2.3.2 – Three Flashes
-2.3.3 – Animation from Interactions
+* 2.1.3 – Keyboard (No Exception)
+* 2.2.3 – No Timing
+* 2.2.4 – Interruptions
+* 2.2.5 – Re-authenticating
+* 2.2.6 – Timeouts
+* 2.3.2 – Three Flashes
+* 2.3.3 – Animation from Interactions
+* 2.2.3 – No Timing
+* 2.2.4 – Interruptions
+* 2.2.5 – Re-authenticating
+* 2.2.6 – Timeouts
+* 2.3.2 – Three Flashes
+* 2.3.3 – Animation from Interactions
 
 ### Promotes clarity
 
@@ -392,12 +392,12 @@ When a component receives keyboard focus:
 * There are no restrictions on modes of input. For example, if a user switches from mouse to keyboard. Exclusions can be made if the input is for security reasons.
 
 Relates to the following web content accessibility guidelines:
-2.4.8 – Location
-2.4.9 – Link Purpose (Link Only)
-2.4.10 – Section Headings
-2.4.12 – Focus Appearance (Enhanced)
-2.5.5 – Target Size
-2.5.6 – Concurrent Input Mechanisms
+* 2.4.8 – Location
+* 2.4.9 – Link Purpose (Link Only)
+* 2.4.10 – Section Headings
+* 2.4.12 – Focus Appearance (Enhanced)
+* 2.5.5 – Target Size
+* 2.5.6 – Concurrent Input Mechanisms
 
 ### Readable and understandable
 
@@ -427,9 +427,9 @@ Where a field needs a specific formatting, provide further detail. For example, 
 
 #### Error prevention
 To pass this guideline:
-All data input submissions are reversible
-All data input submissions are checked for input errors. The user is given a chance to correct any mistakes.
-Add a confirmation page that summarises the input and explains the outcome. Add an option to correct or discontinue. Finally, the page has a button or checkbox that acts as confirmation of the submission.
+* All data input submissions are reversible
+* All data input submissions are checked for input errors. The user is given a chance to correct any mistakes.
+* Add a confirmation page that summarises the input and explains the outcome. Add an option to correct or discontinue. Finally, the page has a button or checkbox that acts as confirmation of the submission.
 
 Relates to the following web content accessibility guidelines:
 * 3.1.3 – Unusual Words
