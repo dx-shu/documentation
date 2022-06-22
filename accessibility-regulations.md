@@ -267,14 +267,14 @@ Relates to the following web content accessibility guidelines:
 
 ---
 
-## Ensure that forms are accessible
+## Ensure that forms are accessible
 Forms can be particularly troublesome when poorly designed. Carefully consider the development of forms to aid the user as much as possible.
 
 Benefits:
 * Great for screen readers
 * Improves data integrity
 
-#### Label consistency
+#### Label consistency
 Labelling of items is key and should provide clear instruction on how to complete the form. Ensure labels, fields and components contain consistent descriptive text to aid the user.
 
 #### Errors and data handling
@@ -282,7 +282,7 @@ Error handling should be scrutinised with particular attention to errors display
 
 Consider how to safeguard data to prevent user error. Particularly important on forms including legal commitment. A summary page may be required so that the user can check data before submission. Provide the user with options without jeopardising the functionality of the form. The handling of and deletion of data is equally important.
 
-#### Auto-complete fields
+#### Auto-complete fields
 To help users to programmatically complete fields, auto-complete options should active. Autocomplete values are essential to allow the user’s browser to prefill fields. Developers must specify the intention of input fields with “input type=”type”. 
 
 Relates to the following web content accessibility guidelines:
@@ -294,7 +294,7 @@ Relates to the following web content accessibility guidelines:
 
 ---
 
-## Advanced accessibility
+## Advanced accessibility
 The advanced section covers AAA level standards. This level is not mandatory to University websites at present. Although, this does not mean that this level should be ignored. Survey where it is possible to involve as many techniques as possible.
 
 ### Media
