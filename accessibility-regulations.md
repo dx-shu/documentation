@@ -1,6 +1,6 @@
 # Accessibility regulations
 
-## How to use these guidelines
+## How to use these guidelines
 
 The techniques detailed on this page follow the Web Content Accessibility Guidelines (WCAG). Universities are legally required to comply with level AA.
 
@@ -17,6 +17,7 @@ We recommend testing sections of the website to ensure they meet accessibility s
 
 We recommend Silktide, a web accessibility performance tool. To request access please contact us via the form on the digital experience service.
 
+---
 
 ## Consistency
 The web platform used should have consistency as a high priority, a consistent website can help to begin the foundations of a good accessible platform. 
@@ -43,17 +44,17 @@ Keyboard focus indicators (when tabbing through content) are clearly visible whe
 
 The target size for pointer inputs (logos, buttons, icons) is at least 24 by 24 CSS pixels. Although, we encourage that inputs are available by at least 44 by 44 CSS pixels to meet AAA standards.
 
-Relates to the following web content accessibility guidelines:
-1.3.1 – Info and Relationships
-2.4.5 – Multiple Ways
-2.4.11 – Focus Appearance (Minimum)
-2.5.8 – Target Size (Minimum)
-3.1.1 – Language of Page
-3.1.2 – Language of Parts
-3.2.3 – Consistent Navigation
-3.2.4 – Consistent Identification
-4.1.1 – Parsing
-4.1.2 – Name, Role, Value
+Relates to the following web content accessibility guidelines:   
+* 1.3.1 – Info and Relationships   
+* 2.4.5 – Multiple Ways
+* 2.4.11 – Focus Appearance (Minimum)
+* 2.5.8 – Target Size (Minimum)
+* 3.1.1 – Language of Page  
+* 3.1.2 – Language of Parts
+* 3.2.3 – Consistent Navigation
+* 3.2.4 – Consistent Identification
+* 4.1.1 – Parsing
+* 4.1.2 – Name, Role, Value
 
 ### Content consistency
 
@@ -73,10 +74,12 @@ Ensure that there are at least two ways to locate a webpage. Exceptions include 
 Help (contact details, forms, live chat) should be provided in a consistent manner. For example, live chat functionality should be provided on all pages. A further example, contact fields should be consistent ie. phone number before email address.
 
 Relates to the following web content accessibility guidelines:
-1.3.1 – Info and Relationships
-1.3.2 – Meaningful Sequence
-2.4.5 – Multiple Ways
-3.2.6 – Consistent Help
+* 1.3.1 – Info and Relationships
+* 1.3.2 – Meaningful Sequence
+* 2.4.5 – Multiple Ways
+* 3.2.6 – Consistent Help
+
+---
 
 ## Make sure content is readable and predictable
 Content is readable for all users. Consider how assistive technology accesses content. Content should be predictable so that the user understands the page and where links will lead.
@@ -85,7 +88,7 @@ Content is readable for all users. Consider how assistive technology accesses co
 The website must be a platform for promoting readability.
 
 Benefits:
-A good foundation for an accessible website
+* A good foundation for an accessible website
 
 #### Visuals
 The content of the website should be viewable in either landscape or portrait view. The meaning and function of the web page should not degrade by switching orientation. Furthermore, the page should be viewable without horizontal scrolling.
@@ -98,12 +101,12 @@ The text and background contrast ratiois at least 4.5:1. We recommend contemplat
 The content of the website should be fully accessible by keyboard without unexpected triggers (alert, error etc.). We do not recommend such triggers. If unavoidable, triggers should be persistent to allow the user to view the content. They should also be hoverable and dismissable by both keyboard and mouse.
 
 Relates to the following web content accessibility guidelines:
-1.3.4 – Orientation
-1.4.3 – Contrast (Minimum)
-1.4.6 – Contrast (Enhanced)
-1.4.11 – Non-Text Contrast
-1.4.4 – Resize Text
-1.4.10 – Reflow
+* 1.3.4 – Orientation
+* 1.4.3 – Contrast (Minimum)
+* 1.4.6 – Contrast (Enhanced)
+* 1.4.11 – Non-Text Contrast
+* 1.4.4 – Resize Text
+* 1.4.10 – Reflow
 1.4.12 – Text Spacing
 1.4.13 – Content on Hover or Focus
 
@@ -142,14 +145,14 @@ No imagery of text.
 All videos featured on the website must feature live captions, including live streaming. With live media, a possible solution could include auto-generated captions.
 
 Relates to the following web content accessibility guidelines:
-2.4.2 – Page Titled
-2.4.6 – Headings and Labels
-1.4.5 – Images of Text
-1.4.1 – Use of Colour
-1.3.3 – Sensory Characteristics
-1.2.4 – Captions (Live)
-2.4.4 Link purpose (in context)
-2.4.9 Link purpose (link only)
+* 2.4.2 – Page Titled
+* 2.4.6 – Headings and Labels
+* 1.4.5 – Images of Text
+* 1.4.1 – Use of Colour
+* 1.3.3 – Sensory Characteristics
+* 1.2.4 – Captions (Live)
+* 2.4.4 Link purpose (in context)
+* 2.4.9 Link purpose (link only)
 
 ## Allow the user control
 The user should have control of elements of the website and not be required to take steps to prevent intrusive items such as media, animation or repeated content.
@@ -169,12 +172,13 @@ Time-specific events such as animations and holding messages can be troublesome.
 Provide a way for users to skip repeated blocks of content, such as a skip to content button
 
 Relates to the following web content accessibility guidelines:
-1.4.2 – Audio Control
-2.2.1 – Timing Adjustable
-2.2.2 – Pause, Stop, Hide
-2.3.1 – Three Flashes or Below Threshold
-2.4.1 – Bypass Blocks
+* 1.4.2 – Audio Control
+* 2.2.1 – Timing Adjustable
+* 2.2.2 – Pause, Stop, Hide
+* 2.3.1 – Three Flashes or Below Threshold
+* 2.4.1 – Bypass Blocks
 
+---
 
 ## Provide alternatives
 Provide alternative options for content including imagery, audio and video. Furthermore, be wary of motion and gesture-based functions.
@@ -193,7 +197,7 @@ Good example: A student on campus eating a green apple
 Bad example: A student
 
 Relates to the following web content accessibility guidelines:   
-1.1.1 Non-text Content
+* 1.1.1 Non-text Content
 
 #### Video and audio alternatives
 Video and audio-only pages are problematic to assistive technology. Including alternatives, such as a transcript is beneficial to all users. Assistive technology can read the transcript. It also allows the user an alternative for when playing audio or video isn't appropriate.
@@ -208,17 +212,17 @@ Ensure that videos and audio material contain captions. Provide audio descriptio
 An audio description should be available to select for pre-recorded videos. This is currently not possible with Sitecore.
 
 Relates to the following web content accessibility guidelines:    
-1.2.1 – Audio-only and Video-only (Pre-recorded)
-1.2.2 – Captions (Pre-recorded)
-1.2.3 – Audio Description or Media Alternative (Pre-recorded)
-1.2.5 – Audio Description (Pre-recorded)
+* 1.2.1 – Audio-only and Video-only (Pre-recorded)
+* 1.2.2 – Captions (Pre-recorded)
+* 1.2.3 – Audio Description or Media Alternative (Pre-recorded)
+* 1.2.5 – Audio Description (Pre-recorded)
 
 #### Motion and gesture 
 Pointer and gesture-based functionality is not recommended. When such functionality is present alternatives should be available.
 
 Benefits:
-Provides alternatives for physical impairment
-Prevents accidental actions
+* Provides alternatives for physical impairment
+* Prevents accidental actions
 
 An action requiring multiple gestures to complete should provide a single-click alternative. For example, zoom requires the user to pinch the screen, alternatively, the user can click a zoom in or out button.
 
@@ -227,11 +231,12 @@ On clicking an item, an action should only occur if the click ends inside the ac
 An action requiring motion to operate allows the user to disable the motion. The user should be able to execute the action through an alternative interface.
 
 Relates to the following web content accessibility guidelines:
-2.5.1 – Pointer Gestures
-2.5.2 – Pointer Cancellation
-2.5.4 – Motion Actuation
-2.5.7 – Dragging Movements
+* 2.5.1 – Pointer Gestures
+* 2.5.2 – Pointer Cancellation
+* 2.5.4 – Motion Actuation
+* 2.5.7 – Dragging Movements
 
+---
 
 #### Keyboard functionality
 
@@ -240,7 +245,7 @@ Website functionality should be accessible and achievable with a keyboard. Moreo
 A good way to test this is to discard your mouse and attempt to navigate the website using your keyboard alone.
 
 Benefits:
-Great for screen readers 
+* Great for screen readers 
 
 All content should be navigable via the keyboard so that the user is not trapped in a section. Where a page contains breaks, the user should be able to navigate to them to quickly access content.
 
@@ -251,22 +256,23 @@ We do not recommend character key shortcuts which can interfere with keyboard sh
 
 
 Relates to the following web content accessibility guidelines:
-2.1.1 – Keyboard
-2.4.7 – Focus Visible
-2.4.3 – Focus Order
-3.2.1 – On Focus
-3.2.2 – On Input
-2.1.2 – No Keyboard Trap
-2.1.4 – Character Key Shortcuts
-2.4.13 – Page Break Navigation
+* 2.1.1 – Keyboard
+* 2.4.7 – Focus Visible
+* 2.4.3 – Focus Order
+* 3.2.1 – On Focus
+* 3.2.2 – On Input
+* 2.1.2 – No Keyboard Trap
+* 2.1.4 – Character Key Shortcuts
+* 2.4.13 – Page Break Navigation
 
+---
 
 ## Ensure that forms are accessible
 Forms can be particularly troublesome when poorly designed. Carefully consider the development of forms to aid the user as much as possible.
 
 Benefits:
-Great for screen readers
-Improves data integrity
+* Great for screen readers
+* Improves data integrity
 
 #### Label consistency
 Labelling of items is key and should provide clear instruction on how to complete the form. Ensure labels, fields and components contain consistent descriptive text to aid the user.
@@ -280,12 +286,13 @@ Consider how to safeguard data to prevent user error. Particularly important on 
 To help users to programmatically complete fields, auto-complete options should active. Autocomplete values are essential to allow the user’s browser to prefill fields. Developers must specify the intention of input fields with “input type=”type”. 
 
 Relates to the following web content accessibility guidelines:
-2.5.3 Label in Name
-3.3.1 Error Identification
-3.3.2 Labels or Instructions
-3.3.3 Error Suggestion
-3.3.4 Error Prevention (Legal, Financial, Data)
+* 2.5.3 Label in Name
+* 3.3.1 Error Identification
+* 3.3.2 Labels or Instructions
+* 3.3.3 Error Suggestion
+* 3.3.4 Error Prevention (Legal, Financial, Data)
 
+---
 
 ## Advanced accessibility
 The advanced section covers AAA level standards. This level is not mandatory to University websites at present. Although, this does not mean that this level should be ignored. Survey where it is possible to involve as many techniques as possible.
