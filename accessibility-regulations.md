@@ -432,10 +432,10 @@ All data input submissions are checked for input errors. The user is given a cha
 Add a confirmation page that summarises the input and explains the outcome. Add an option to correct or discontinue. Finally, the page has a button or checkbox that acts as confirmation of the submission.
 
 Relates to the following web content accessibility guidelines:
-3.1.3 – Unusual Words
-3.1.4 – Abbreviations
-3.1.5 – Reading Level
-3.1.6 – Pronunciation
-3.2.5 – Change on Request
-3.3.5 – Help
-3.3.6 – Error Prevention (All)
+* 3.1.3 – Unusual Words
+* 3.1.4 – Abbreviations
+* 3.1.5 – Reading Level
+* 3.1.6 – Pronunciation
+* 3.2.5 – Change on Request
+* 3.3.5 – Help
+* 3.3.6 – Error Prevention (All)
