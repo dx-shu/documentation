@@ -13,8 +13,6 @@ These accessibility techniques benefit users with temporary or long-term disabil
 
 We recommend testing sections of the website to ensure they meet accessibility standards.
 
----
-
 ## How to check the accessibility of web pages
 
 We recommend Silktide, a web accessibility performance tool. To request access please [contact us via the form on the digital experience service](https://www.shu.ac.uk/digital-experience-service).
