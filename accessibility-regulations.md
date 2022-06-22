@@ -331,10 +331,10 @@ Five features are required to pass:
 * Text can be resized in a browser up to 200% without requiring the user to scroll horizontally
 
 Relates to the following web content accessibility guidelines:
-1.4.6 – Contrast (Enhanced)
-1.4.7 – Low or No Background Audio
-1.4.8 – Visual Presentation
-1.4.9 – Images of Text (No Exception)
+* 1.4.6 – Contrast (Enhanced)
+* 1.4.7 – Low or No Background Audio
+* 1.4.8 – Visual Presentation
+* 1.4.9 – Images of Text (No Exception)
 
 #### Controls
 Keyboard function
