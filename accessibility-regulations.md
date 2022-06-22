@@ -70,7 +70,7 @@ Benefits:
 #### Locatable
 Ensure that there are at least two ways to locate a webpage. Exceptions include receipt or confirmation pages.
 
-#### Help and advice
+#### Help and advice
 Help (contact details, forms, live chat) should be provided in a consistent manner. For example, live chat functionality should be provided on all pages. A further example, contact fields should be consistent ie. phone number before email address.
 
 Relates to the following web content accessibility guidelines:
