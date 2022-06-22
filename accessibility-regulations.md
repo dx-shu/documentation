@@ -217,7 +217,7 @@ Relates to the following web content accessibility guidelines:
 * 1.2.3 – Audio Description or Media Alternative (Pre-recorded)
 * 1.2.5 – Audio Description (Pre-recorded)
 
-#### Motion and gesture 
+#### Motion and gesture
 Pointer and gesture-based functionality is not recommended. When such functionality is present alternatives should be available.
 
 Benefits:
@@ -238,7 +238,7 @@ Relates to the following web content accessibility guidelines:
 
 ---
 
-#### Keyboard functionality
+## Keyboard functionality
 
 Website functionality should be accessible and achievable with a keyboard. Moreover, timing should not be a requirement to function properly. For example, hold down the enter key for five seconds.
 
@@ -314,15 +314,15 @@ Relates to the following web content accessibility guidelines:
 1.2.9 – Audio Only (Live)
 1.3.6 – Identify Purpose
 
-### Visual
+### Visual
 
-#### Images of text
+#### Images of text
 Avoid images of text and ensure that quotes are text-based.
 
-#### Contrast ratio
+#### Contrast ratio
 The contrast between background and foreground colour is at least 7:1.
 
-#### Advanced visuals
+#### Advanced visuals
 Five features are required to pass:
 * Users can select their preference of background and foreground colours
 * Text blocks are no wider than 80 characters
@@ -345,12 +345,12 @@ There are no time-limits on the website, exceptions include live events such as 
 
 Interruptions are pausable, except for emergency messages. The user should be able to opt-in to updates rather than continue to receive alerts. There should be no automatic redirects or refreshing of the page.
 
-#### Data and authentication
+#### Data and authentication
 Data is held for a minimum of 20 hours before a timeout removes the data (e.g. shopping basket).
 
 The user is able to re-authenticate elements of the websites (such as form inputs). Reducing the need to manually input credentials.
 
-#### Motion and animation
+#### Motion and animation
 Do not add anything that flashes more than 3 times per second to the website.
 
 Do not use motion animation on the website. If unavoidable, ensure that the animation can be disabled.
@@ -370,7 +370,7 @@ Relates to the following web content accessibility guidelines:
 2.3.2 – Three Flashes
 2.3.3 – Animation from Interactions
 
-### Promotes clarity
+### Promotes clarity
 
 #### Link description
 A page containing multiple links to a single destination must have the same description.
@@ -408,7 +408,7 @@ Avoid using abbreviations. If unavoidable, list the full term alongside the abbr
 
 Avoid using words where pronunciation is key. Where required, add or link to a phonetic guide in brackets.
 
-#### Reading age
+#### Reading age
 Ensure that your content can be understood by a person with 7-9 years of schooling. Aids include adding summaries, diagrams and imagery. Also, structure content well with headings and sections.
 
 #### Change on request
